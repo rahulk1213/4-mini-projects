@@ -1,6 +1,5 @@
 # 4-mini-projects
 This repository contains four beginner-friendly Python mini projects made using only basic Python concepts like functions, loops, conditionals, and dictionaries.
-ये सभी प्रोजेक्ट्स बिना किसी external library के बनाए गए हैं – सिर्फ Python की core knowledge से।
 
 📁 Projects List:
 ✅ To-Do List App
